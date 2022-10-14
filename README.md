@@ -11,6 +11,5 @@ Hosting a static website using S3 and Accessing cached website data using CloudF
 3 - Bucket is created:<br>
 ![create bucket](Images/screenshot-2021-01-12-at-6.34.56-pm.png)<br>
 
-
-
-# 
+# Uploading files to the bucket:
+![create bucket](Images/screenshot-2021-01-12-at-7.10.46-pm.png)<br>
