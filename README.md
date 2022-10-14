@@ -35,3 +35,11 @@ Hosting a static website using S3 and Accessing cached website data using CloudF
 1 - Created new distribution<br>
 2 - Added the origin domain<br>
 3 - Added the default cache behaviour<br>
+
+## Accessing Website:
+
+1 - [CloudFront domain name](https://d20kqnrmklkk35.cloudfront.net/)<br>
+2 - [website-endpoint](http://my-587109582807-bucket.s3-website-us-east-1.amazonaws.com/)<br>
+3 - [S3 object URL](https://my-587109582807-bucket.s3.amazonaws.com/index.html)<br>
+
+![Static website]()<br>
