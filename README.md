@@ -29,3 +29,9 @@ Hosting a static website using S3 and Accessing cached website data using CloudF
     ]
 }
 ```
+
+## Distribute Website via CloudFront:
+
+1 - Created new distribution<br>
+2 - Added the origin domain<br>
+3 - Added the default cache behaviour<br>
