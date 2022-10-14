@@ -42,4 +42,4 @@ Hosting a static website using S3 and Accessing cached website data using CloudF
 2 - [website-endpoint](http://my-587109582807-bucket.s3-website-us-east-1.amazonaws.com/)<br>
 3 - [S3 object URL](https://my-587109582807-bucket.s3.amazonaws.com/index.html)<br>
 
-![Static website]()<br>
+![Static website](Images/website.png)<br>
